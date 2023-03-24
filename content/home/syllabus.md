@@ -9,31 +9,31 @@ title = "Syllabus"
 
 ## Course Description
 
-How can one summarize information and data and convey its meaning to others? What is an effective data visualization? What is an ineffective or dishonest one? And, for that matter, what is data? This course will explore these questions by introducing students to the broad field of information visualization. Students will learn about different types of visualizations that may be used to explore variation and covariation, the evolution of processes through time and space, and representing parts of a whole. Much of the work of this course will be carried out using computers and the R programming language, but we will also explore non-computational approaches to visualization. Students will develop skills in data collection, data cleaning, and creating different types of data visualizations (e.g. bar charts, scatter plots, density plots, heat maps, violin plots, time series, and interactive graphics) and effective data communication while working on problems and case studies inspired by and based on real-world questions. We will also critique and reflect upon data visualizations in our daily lives. Students will also gain familiarity with descriptive statistics and ways to organize and summarize categorical and numerical data to pick out key information.  
+Continuing on the themes explored in Data Science 1, students will go beyond data visualization to gain insight from data using statistical and machine learning techniques. Students who successfully complete this course will be able to work with large data sets, transform those data, and apply statistical and machine learning techniques to analyze data. Throughout the course we will be using GitHub, ggplot2, Rmarkdown, and the tidyverse packages for data manipulation, visualization and analysis. This course is intended to appeal to a wide range of students. The skills and habits of mind taught in this course are applicable not only in the sciences and social sciences, but in almost all fields. Evaluation will be based on several short homework and lab assignments, participation in in-class activities, and a final project.
 
-This course is designed to serve as an introduction to programming in R. Students will learn to gain insight from data, to use literate programming and version control so that these insights are reproducible by others, and to develop code collaboratively. Students who successfully complete this course will be able to work with large data sets, transform those data, and implement effective visualizations. Throughout the course we will be using GitHub, ggplot2, Rmarkdown, gganimate, RShiny and the tidyverse packages for data manipulation and visualization. This course is intended to appeal to a wide range of students. The skills and habits of mind taught in this course are applicable not only in the sciences and social sciences, but in almost all fields. Evaluation will be based on several short homework and lab assignments, participation in in-class activities, and a final project.
 
-The course content is organized in four units:
- 
-- **Unit 1 - Hello world:** This unit is an introduction to the content, pedagogy, and toolkit of the course.
-- **Unit 2 - Exploring data:** This unit focuses on data visualization and data wrangling. Specifically we cover fundamentals of data and data visualization, confounding variables, and Simpson's paradox as well as the concept of tidy data, data import, data cleaning, and data curation. Also in this unit students are introduced to the toolkit: R, RStudio, R Markdown, Git, and GitHub.
+Unit 1 (Week 1)- Exploring data: This unit is designed as a refresher of data visualization and data wrangling. We end the unit with web scraping and introduce the idea of iteration in preparation for the next unit. Also in this unit students are introduced to the toolkit: R, RStudio, R Markdown, Git, and GitHub.
 
-- **Unit 3 - Data science ethics:** In this unit we discuss misrepresentation of findings, particularly in data visualizations, breaches of data privacy, and algorithmic bias. We also cover accessibility of data visualizations.
+Unit 2 (Week 2 and 5) - Making rigorous conclusions: In this unit we introduce modelling and statistical inference for making data-based conclusions. We discuss data ethics alongside building, interpreting, and selecting models, visualizing interaction effects, and prediction and model validation.
 
-- **Unit 4 - Looking forward:** In the last unit we will explore a series of short modules. These will be chosen by you and could include modules such as interactive reporting and visualization with Shiny, creating animated plots using gganimate, and creating maps. 
+Unit 3 (Week 6 and 7) - Text Analysis: In this unit we explore text analysis and are introduced to time series analysis and supervised machine learning.
+
+Unit 4 (Week 7 and 8) - Machine Learning: In this unit we expand our knowledge of machine learning with a focus on unsupervised machine learning models. 
+
+Unit 5 (Week 9 - 10) - Looking beyond data science II. This unit will include a rotating topic, e.g. Spatial Data Analysis or Image Processing and explore careers in data science.
 
 ### Additional Course Info
 
 * **Meets the following requirements:**  QR
-* **Prerequisites:** None
-* **Level:** Introductory
+* **Prerequisites:** Data Science 1
+* **Level:** Intermediate
 * **Course limit:**  16
 * **Lab fee:**  No lab fee
 
 
 ## Course Values, Goals, and Practices
  
-The computing courses at COA are designed to bridge the liberal arts education to computing and the digital world.  In this, I am committed to actively creating digital and computational spaces that are radically inclusive. This includes integrating equity and social justice throughout our curriculum, and engaging students in metacognition to support this work.
+The computing courses at COA are designed to bridge the liberal arts education to computing and the digital world.  In this, I am committed to actively creating digital and computational spaces that are radically inclusive. This includes integrating equity and social justice throughout the curriculum, and engaging students in metacognition to support this work.
 
 
 ## Learning Objectives
@@ -41,14 +41,14 @@ The computing courses at COA are designed to bridge the liberal arts education t
 This course is designed as a community learning journey. Together, we will:
 
 - Play with computational ideas creatively, using a growth mindset which values revision and experimentation. 
-- Gain experience in data collection, wrangling, visualization, exploratory data analysis, and effective communication of results while working on problems and case studies inspired by and based on real-world questions.
+- Gain experience in data collection, wrangling, visualization, exploratory data analysis, statistical analysis and machine learning, as well as effective communication of results while working on problems and case studies inspired by and based on real-world questions.
 - Engage and reflect on contemporary issues in environmental and social justice related to your digital world, community and positionality. Critically evaluate the origins of data and the limitations of analysis techniques.
 - Demonstrate community leadership skills as a collaborator that shares strengths, builds weaknesses, and contributes to a broader shared understanding. 
 
 It is also my hope that in this course you:
 
 - Develop an appreciation for reproducibility, transparency, accessibility and inclusivity in data collection, analysis, and communication.
-- Build knowledge and skills in data science skills to tackle questions that are important to you. 
+- Build knowledge and skills in data science to tackle questions that are important to you. 
 
 ## Course Materials required: 
 
@@ -73,8 +73,8 @@ The class meets on Tuesday, Wednesday and Friday from 9.35-11:00. The typical we
 | Day| Activity|
 | --- | --- |
 | Tuesday | Topic Introduction|
-| Wednesday | Lab |
-| Friday | Workshop |
+| Wednesday | Topic Introduction |
+| Friday | Lab |
 
 
 Outside of class you can expect to spend 
@@ -82,7 +82,7 @@ Outside of class you can expect to spend
 * 3-5 hours on homework and labs each week. 
 
 - **Homework:** is assigned on Friday and due the following Friday at 23.59pm EST. Each homework will be introduced on Friday morning and you are encouraged to work on your homework and lab in Friday's workshop class session.
-- **Labs:** Labs will be started in class on Wednesday and are due the following Wednesday at 23.59pm EST. Labs may also be brought to the Friday workshop session and you are encouraged to bring work to the help sessions through the week.
+- **Labs:** Labs will be started in class on Friday and are due the following Friday at 23.59pm EST.
 - **Reflections:** There will be a number of reflections throughout the course. These will either be open-ended or there will be a prompt to follow. 
 
 ### Help sessions

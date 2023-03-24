@@ -1,10 +1,10 @@
 ---
 
-name: Data Science 1 Visualization
+name: Data Science II - Data Analysis
 organizations:
 - name: College of the Atlantic
   url: "https://classroom.google.com/"
-role: Fall 2022
+role: Spring 2023
 social:
 - icon: github
   icon_pack: fab
@@ -22,6 +22,4 @@ social:
 superuser: true
 ---
 
-How can one summarize information and data and convey its meaning to others? What is an effective data visualization? What is an ineffective or dishonest one? And, for that matter, what is data? This course will explore these questions by introducing students to the broad field of information visualization. Students will learn about different types of visualizations that may be used to explore variation and covariation, the evolution of processes through time and space, and representing parts of a whole. Much of the work of this course will be carried out using computers and the R programming language, but we will also explore non-computational approaches to visualization. 
-
-Students will develop skills in data collection, data cleaning, and creating different types of data visualizations (e.g. bar charts, scatter plots, density plots, heat maps, violin plots, time series, and interactive graphics) and effective data communication while working on problems and case studies inspired by and based on real-world questions. We will also critique and reflect upon data visualizations in our daily lives. Students will also gain familiarity with descriptive statistics and ways to organize and summarize categorical and numerical data to pick out key information.  
+This course builds on Data Science 1 where students developed skills in data collection, data cleaning, and creating different types of data visualizations (e.g. bar charts, scatter plots, density plots, heat maps, violin plots, time series, and interactive graphics) and effective data communication while working on problems and case studies inspired by and based on real-world questions. Continuing on the themes explored in Data Science 1, students will go beyond data visualization to gain insight from data using statistical and machine learning techniques. Students who successfully complete this course will be able to work with large data sets, transform those data, and apply statistical and machine learning techniques to analyze data. Students will build on their knowledge of GitHub, ggplot2, Rmarkdown, and the tidyverse packages for data manipulation, visualization and analysis, to include an analytical toolkit for answering different types of questions and working with different types of data. Students will be exposed to a variety of topics including: webscraping, generalized linear models and machine learning. Each year we will also explore several advanced special topics in data science (e.g. text analysis, image processing, spatial analysis).

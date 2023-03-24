@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Welcome to College of the Atlantic!"
+title = "This Website is Under Construction"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -28,7 +28,7 @@ title = "Welcome to College of the Atlantic!"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "tidydata_5.jpg"  # Name of image in `static/img/`.
+  image = "github_groundcrew_text.png"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).

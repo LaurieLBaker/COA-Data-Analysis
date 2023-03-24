@@ -1,17 +1,18 @@
 ---
-title: 'Week 6 - Communicating data science results effectively'
+title: 'Week 11 - Looking beyond Data Science II'
 author: ''
-date: '2022-10-17'
+date: '2022-05-30'
 slug: []
 categories: []
 tags: []
-subtitle: 'Tips for effective data visualization, communication of results, and collaboration :speech_balloon:'
-summary: 'Tips for effective data visualization, communication of results, and collaboration.'
+subtitle: 'Looking beyond DCS 210 :eyes:'
+summary: 'Text Analysis, Supervised Machine Learning, and Creating Interactive Applications'
 authors: []
-lastmod: '2022-10-17T09:38:18-04:00'
+lastmod: '2022-05-30T14:17:18-04:00'
 featured: no
 image:
-  caption: 'Dan Mills, Amazon Region with borders (with the estimated number of nations and tribes at European contact marked in black, and the estimated current number marked in colors), 2020, acrylic on collage laid down on board, 55 x 46 inches'
+  caption: 'Captain steering boat. Photo by <a href="https://unsplash.com/@garrettpsystems?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">garrett parker</a> on <a href="https://unsplash.com/s/photos/boat-compass?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  '
   focal_point: ''
   preview_only: no
 projects: []
@@ -20,69 +21,51 @@ projects: []
 
 ### Tasks
 
-- Sign up for a mid-trimester check-in slot
-- Complete the [readings](/post/06-week/#readings)
-- Complete the [assignments](/post/06-week/#assignments)
-  - Work on the [project proposal](/#project)
+- Work on project/presentation edits
+- Work on the [tutorials](/post/11-week/#tutorials)
+- Complete the [assignments](/post/11-week/#assignments)
+- Complete the [readings](/post/11-week/#readings)
 
-### Slides
+### Tutorials
 
-<!-- You can access the course videos on YouTube. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM). -->
+This week we have several guest tutorials from Julia Silge and RStudio on text analysis, supervised machine learning and creating interactive web apps using RShiny. 
 
-<!-- | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> | -->
-<!-- |:---:|:---------------------|:-------:|:-----------:|:--------:|:------:| -->
-<!-- | 01 | Tips for effective data visualization | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/ZrifrBvFWgg) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d14-effective-dataviz/u2-d14-effective-dataviz.html) | 37:35 | -->
-<!-- | 02 | Scientific studies and confounding | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/WnMzTBrZDcc) |  [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d15-studies-confounding/u2-d15-studies-confounding.html) | 17:15 | -->
-<!-- | 03 | Simpson's paradox | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/sdas62v0iJU) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d16-simpsons-paradox/u2-d16-simpsons-paradox.html) | 15:29 | -->
-<!-- | 04 | Doing data science | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/b9lSW0kyqBg) | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d17-doing-data-science/u2-d17-doing-data-science.html) | 18:54 | -->
-
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">Slides</div> |
-|:---:|:---------------------|:-------:|
-| 01 | Tips for effective data visualization | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d14-effective-dataviz/u2-d14-effective-dataviz.html) | 
-| 02 | Scientific studies and confounding | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d15-studies-confounding/u2-d15-studies-confounding.html) |
-| 03 | Simpson's paradox | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d16-simpsons-paradox/u2-d16-simpsons-paradox.html) | 
-| 04 | Doing data science | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d17-doing-data-science/u2-d17-doing-data-science.html) | 
-
-
-### Class Activities
-
-| <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
-|:---|:---|:---|
-| Topic Intro | Communicating Effective Results | Tue, 18 Oct |
-| Topic Intro | [Xaringan Basics and Beyond](https://spcanelon.github.io/xaringan-basics-and-beyond/slides/day-01-basics.html#1) | Wed, 19 Oct |
-| Check-in| Mid-trimester check-ins: sign up for a slot | Fri, 21 Oct |
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Tutorial</div> |
+|:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
+| 1 | Text analysis | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://juliasilge.shinyapps.io/learntidytext/) |
+| 2 | Supervised Machine Learning | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://supervised-ml-course.netlify.app/) |
+| 3 | Interactive web apps |[<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/) |  
+ 
 
 ### Assignments
 
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
-| *Due this week* | | 
-| Project | [Team contract](/#project) | Tue, 18 Oct, 23:59 EST |
-| HW 04 | [Majors](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-04/hw-04-college-majors.html) | Wed, 19 Oct, 23:59 EST |
-| Project | [Proposal](/#project) | Sat, 22 Oct, 23:59 EST |
-| Q 04 | [Coding style](https://laurie-the-student-baker.shinyapps.io/04-coding/#section-questions)| Sun, 23 Oct, 23:59 EST |
+| *Due this week* | | |
+| Project Write Up| [Project write up](/#project)   | Mon, 11 Apr|
+| Project Presentations | [Project presentation](/#project) | Tue, 12 Apr|
+| Feedback | Course Survey (link coming soon)| Sat, 16 Apr|
 | *Due next week* | | |
-| R 02 |  | Tue, 25 Oct, 23:59 EST |
-| HW 05 | [Lego Sales](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-05/hw-05-legos.html) | Fri, 28 Oct, 23:59 EST |
-
-
-If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
-
+| Project | [Project edits](/#project) | Wed, 20 Apr, 23:59 EST |
 ### Readings
+
+There are no required readings this week. The following are suggested readings for learning more about the topics covered in the tutorials.
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :open_book: | [R4DS::Chp 7 - Exploratory data analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html) | **Required** |
-| :open_book: | [IMS::Sec 6.1 - Case study: Effective communication of exploratory results](https://openintro-ims.netlify.app/explore-applications.html) | **Required** |
-| :open_book: | [IMS::Sec 2.1 Study design](https://openintro-ims.netlify.app/data-design.html#sampling-principles-strategies) | **Required** |
-| :open_book: | [IMS::Sec 2.2 - Experiments](https://openintro-ims.netlify.app/data-design.html#experiments) | **Required** |
-| :open_book: | [Tidyverse style guide::Part 1 - Analyses (Chp 1-5)](https://style.tidyverse.org/) | Optional |
+| :open_book: | [Chp 1-3 - Text Mining with R](https://www.tidytextmining.com/index.html) | Optional |
+| :open_book: | [Chp 1 - Mastering Shiny](https://mastering-shiny.org/) | Optional |
+| :open_book: | [Chp 7 - Supervised Machine Learning for Text Analysis in R](https://smltar.com/mlclassification.html) | Optional |
 
-### Interactive R tutorials
 
-The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will give you some more hands-on experience with a topic. If you're struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.
+### Tidy Tuesday Text Challenge (Optional)
 
-|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
-|:---|:---|
-| [Lego sales](https://minecr.shinyapps.io/dsbox-04-legosales/) | Related to Homework 5 |
+Analyzing Beyoncé and Taylor Swift Lyrics. The data come from [TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-29/readme.md). TidyTuesday is a weekly social data project for the R community. Read more about TidyTuesday [here](https://github.com/rfordatascience/tidytuesday).
 
+### Joining a Global Community
+
+One of the things that makes R special is it's incredible global community. You may be interested in joining one of these groups to continue your learning journey, build a network, get career advice, and hear about job opportunities.
+
+* [R User Groups](https://www.meetup.com/pro/r-user-groups/)
+* [R Ladies Global](https://rladies.org/)
+* [Minorities in R](https://mircommunity.com/)
