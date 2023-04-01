@@ -11,7 +11,7 @@ authors: []
 lastmod: '2022-03-25T10:41:48-04:00'
 featured: no
 image:
-  caption: 'Purple crocuses coming up through the snow. Photo by <a href="https://unsplash.com/@jplenio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Johannes Plenio</a> on <a href="https://unsplash.com/photos/MVr6pgZzlbY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  caption: 'Partial rear view of a monster with image focusing on their safety harness with a GitHub Octocat logo, chalk bag, carabiners, and rope. Artwork by <a href="https://github.com/allisonhorst/stats-illustrations/blob/main/github-illustrated-series/github_harness.jpeg">Allison Horst</a>
   
   '
   focal_point: ''
@@ -22,8 +22,8 @@ projects: []
 ### Tasks
 
 - Complete the [readings](/post/01-week/#readings)
-- Visit the course on [Google Classroom](https://classroom.google.com/) to join RStudio Cloud
-- - Sign up for a zoom meeting time slot on [Friday or Monday](https://calendly.com/lauriebaker-coa) to discuss grading contract.
+- Visit the course on [Google Classroom](https://classroom.google.com/) to join Posit Cloud
+- - Sign up for a zoom meeting time slot on [Calendly](https://calendly.com/lauriebaker-coa) to discuss grading contract.
 - Complete the *Getting to know you survey* on [Google Classroom](https://classroom.google.com/)
 - Complete the [assignments](/post/01-week/#assignments)
 

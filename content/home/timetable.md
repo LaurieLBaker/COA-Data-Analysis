@@ -17,27 +17,21 @@ subtitle = "Topic Intro Tuesday, Wednesday Lab, Workshop Friday, Help Sessions T
 [[feature]]
   icon = "keyboard"
   icon_pack = "fas"
-  name = "Tuesday"
+  name = "Tuesday and Wednesday"
   description = "Topic Intro - 9:35-11:00"
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Wednesday"
-  description = "Lab - 9:35-11:00"  
-
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
   name = "Friday"
-  description = "Workshop - 9:35-11:00"  
+  description = "Lab - 9:35-11:00"  
 
 
 [[feature]]
   icon = "comments"
   icon_pack = "far"
-  name = "Monday, Wednesday, Thursday"
-  description = "Help Sessions - Monday 1:30-2:30, Wednesday 2:30-3:30, Thursday 1:30-2:30 CHE 103"  
+  name = "TBD"
+  description = "Help Sessions in CHE 103"  
   
 
 

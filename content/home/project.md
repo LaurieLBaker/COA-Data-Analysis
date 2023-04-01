@@ -8,18 +8,12 @@ title = "Project"
 subtitle = "Showcase your inner data scientist"
 +++
 
-## TL;DR
 
-Pick a dataset, any dataset...
+The final project for this class will consist of analysis on a dataset of your own choosing. The dataset may already exist, or you may collect your own data using a survey or by conducting an experiment. You can choose the data based on your interests or based on work in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a novel dataset in a meaningful way.
 
-...and do something with it. That is your final project in a nutshell. More details below.
+The goal is not to do an exhaustive data analysis i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let me know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
 
-The final project for this class will consist of a visualization of a dataset of your own choosing. The dataset may already exist, or you may collect your own data using a survey or by conducting an experiment. You can choose the data based on your interests or based on work in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a novel dataset in a meaningful way.
-
-The goal is not to do an exhaustive data analysis i.e., do not create every visualization you have learned for every variable, but rather let me know that you are proficient at asking meaningful questions and exploring them with data visualizations, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. 
-
-The project is very open ended. You should create some kind of compelling visualizations of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (`tidyverse`) is required. You do not need to visualize all of the data at once. A few high quality visualizations will receive a much higher grade than a large number of poor quality visualizations. At least one visualization should be made using R but you are also encouraged to create your own visualizations using other mediums/crafts if you choose. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R.
-
+The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (`tidyverse`) is required. You do not need to visualize all of the data at once. A single high quality visualization will receive a much higher grade than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. 
 Here is an example of a past [project write up](https://dcs-210.github.io/project-lizakemuntopatrick/) and [presentation](https://dcs-210.github.io/project-lizakemuntopatrick/presentation/presentation.html#1) on **Lessons to be Learned from Super Bowl Advertisements**. 
 
 ### Data
@@ -154,16 +148,6 @@ Style and format does count for this assignment, so please take the time to make
 - Code: In your presentation your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However your document should include all your code such that if I re-knit your R Markdown file I should be able to obtain the results you presented. **Exception:** If you want to highlight something specific about a piece of code, you're welcomed to show that portion. 
 - Teamwork: You are to complete the assignment as a team. All team members are expected to contribute equally to the completion of this assignment and team evaluations will be given at its completion - anyone judged to not have sufficient contributed to the final product will have their grade penalized. While different teams members may have different backgrounds and abilities, it is the responsibility of every team member to understand how and why all code and approaches in the assignment works.
 
-## Marking
-
-Total                          | 100 pts
--------------------------------|--------
-Proposal                       | 10 pts
-Presentation                   | 50 pts
-Write-up                       | 15 pts
-Reproducibility and organization | 10 pts
-Team peer evaluation           | 10 pts
-Classmates' evaluation         | 5 pts
 
 ### Criteria
 
@@ -171,7 +155,3 @@ Classmates' evaluation         | 5 pts
 - **Correctness** - Are the data visualizations chosen an effective means of exploring the questions?
 - **Writing and Presentation** - What is the quality of the statistical presentation, writing, and explanations?
 - **Creativity and Critical Thought** - Is the project carefully thought out? Are the limitations carefully considered? Does it appear that time and effort went into the planning and implementation of the project?
-
-### Team peer evaluation
-
-You will be asked to fill out a survey where you rate the contribution and teamwork of each team member out of 10 points. You will additionally report a contribution percentage for each team member. Filling out the survey is a prerequisite for getting credit on the team member evaluation. If you are suggesting that an individual did less than 20% of the work, please provide some explanation. If any individual gets an average peer score indicating that they did less than 10% of the work, this person will receive half the grade of the rest of the group. The contribution and teamwork scores for each team member will be averaged across the team to give the peer evaluation score.

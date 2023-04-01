@@ -14,13 +14,11 @@ Continuing on the themes explored in Data Science 1, students will go beyond dat
 
 Unit 1 (Week 1)- Exploring data: This unit is designed as a refresher of data visualization and data wrangling. We end the unit with web scraping and introduce the idea of iteration in preparation for the next unit. Also in this unit students are introduced to the toolkit: R, RStudio, R Markdown, Git, and GitHub.
 
-Unit 2 (Week 2 and 5) - Making rigorous conclusions: In this unit we introduce modelling and statistical inference for making data-based conclusions. We discuss data ethics alongside building, interpreting, and selecting models, visualizing interaction effects, and prediction and model validation.
+Unit 2 (Week 2 to 5) - Making rigorous conclusions: In this unit we introduce modelling and statistical inference for making data-based conclusions. We discuss data ethics alongside building, interpreting, and selecting models, visualizing interaction effects, and prediction and model validation.
 
-Unit 3 (Week 6 and 7) - Text Analysis: In this unit we explore text analysis and are introduced to time series analysis and supervised machine learning.
+Unit 3 (Week 6 to 8) - Text Analysis and Machine Learning: In this unit we explore text analysis and are introduced to time series analysis and machine learning.
 
-Unit 4 (Week 7 and 8) - Machine Learning: In this unit we expand our knowledge of machine learning with a focus on unsupervised machine learning models. 
-
-Unit 5 (Week 9 - 10) - Looking beyond data science II. This unit will include a rotating topic, e.g. Spatial Data Analysis or Image Processing and explore careers in data science.
+Unit 4 (Week 9 to 10) - Project presentations and looking beyond data science II. This unit will include a rotating topic.
 
 ### Additional Course Info
 
@@ -58,6 +56,9 @@ All books for this course are freely available online as e-books. We will be usi
 - [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 - [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin.
 
+We will also have chapters and readings from the following opensource books:
+- 
+
 
 ### Technology:
 
@@ -87,9 +88,15 @@ Outside of class you can expect to spend
 
 ### Help sessions
 
-Help sessions will be held three times a week outside of class. Help sessions will begin in Week 2. The dates and times are Monday 1:30-2:30, Wednesday 2:30-3:30, and Thursday 1:30-2:30 in CHE 103. If you would like to meet individually you can book an appointment in my calendar on [calendly](https://calendly.com/lauriebaker-coa) which will be updated each week with available time slots.
+The Teaching Assistant and I will have a handful of help sessions every week. You are warmly invited and encouraged to attend these sessions. Help sessions are relaxed, informal, and hopefully fun. Things that happen at help sessions:
 
-Help sessions are a time to talk about the course content, homework and feedback, concerns about the course or personal matters, advice on your thesis or another data project, and next steps (internships, careers, majors, future classes). Meeting with students one-on-one is one of my favorite parts of the course, so do come by with any questions!
+1. The TAs and/or I am around to offer help on the homework, lab, or project.
+2. Some students do most of the assignment while at a help session. They work through problems alone or with others, and find it comforting to know that help is at hand if needed.
+3. Others do the problems at home and come to the help session with specific questions.
+4. Help sessions are also a chance to ask general questions about the course.
+5. Help sessions are a great way to meet other students in the class.
+
+Everyone is welcome at help sessions! Attending these sessions help students do well in class and get as much out of it as possible. 
 
 ### Labs
 
@@ -97,8 +104,7 @@ These will be held on Wednesdays. During these sessions you will work individual
 
 A frequently asked question is "What happens if I can't make it to a lab one week because I'm sick or have another obligation at that time?" Answers below:
 
-- If you're missing a workshop day due to short-term illness or some other reason, you should communicate this with your team and attend a team meeting before the deadline for the assignment to contribute to the teamwork. If you have made 0 commits towards a lab assignment, you will receive a 0 for that assignment, so you need to participate both for being a team player and also for your own individual score. 
-- You are allowed to drop one lab score, this will automatically be the lab with the lowest score. If you know you are going to miss a lab day and plan to drop that lab, you should let me know in advance so that I can organize and assign teams accordingly.
+- If you're missing a workshop day due to short-term illness or some other reason, you should communicate this with your team and attend a team meeting before the deadline for the assignment to contribute to the teamwork. If you have made 0 commits towards a lab assignment, you will receive no credit for that assignment, so you need to participate both for being a team player and also for your own individual score. 
 
 - If you're unable to contribute to a lab assignment because of an illness taking you away from school work for an extended period of time, you should let me and your team know that you won't be able to contribute to those lab(s) and we can discuss special circumstances and explore alternative arrangements to make up that work. 
   
@@ -128,9 +134,9 @@ Students are expected to make use of the provided GitHub repository as their cen
 
 ## Grades: 
 
-A growing body of research indicates that traditional approaches to grading fail to produce the sorts of meaningful learning desired by both teachers and students. Such approaches often reinforce inequitable power dynamics between teachers and students, promote faulty reward systems that disincentive creativity and risk-taking, and evaluate important aspects of learning (including revision and feedback). Given this context, instead of a traditional approach to grading in which you do work that is evaluated singularly by me, this course assumes that you opt to take ownership and responsibility over your performance and engagement with the class. To make this happen, this course uses a "contract grading" scheme, which gives you a voice in the grading process, provides you with the agency to specify your intended course performance, and also share in the responsibility for evaluating whether or not you fulfilled your intended obligations. Please see the contract grading document (on [Google Classroom](https://classroom.google.com/)) for a more-fleshed-out explanation of this approach and how it will operate in the course.
+A growing body of research indicates that traditional approaches to grading fail to produce the sorts of meaningful learning desired by both teachers and students. Such approaches often reinforce inequitable power dynamics between teachers and students, promote faulty reward systems that disincentive creativity and risk-taking, and devalue important aspects of learning (including revision and feedback). Given this context, instead of a traditional approach to grading in which you do work that is evaluated singularly by me, this course assumes that you opt to take ownership and responsibility over your performance and engagement with the class. To make this happen, this course uses a "contract grading" scheme, which gives you a voice in the grading process, provides you with the agency to specify your intended course performance, and also share in the responsibility for evaluating whether or not you fulfilled your intended obligations. Please see the contract grading document (on [Google Classroom](https://classroom.google.com/)) for a more-fleshed-out explanation of this approach and how it will operate in the course.
 
-I will also be meeting with each of you individually to set goals at the start of the course and to check progress towards those goals mid-way through the trimester.
+I will also be meeting with each of you individually to set goals at the start of the course.
 
 The work in this course will be comprised of the following components and their weights:
 
@@ -140,18 +146,6 @@ The work in this course will be comprised of the following components and their 
 - Quizzes: 10%
 - Attendance: 10%
 - Reflections: 10%
-
-Individual assignments will use the criteria set out by College of the Atlantic:
-
-| Letter | Criteria|
-| --- | --- |
-| A | EXCELLENT: outstanding or superior insight extending beyond the normal requirements for the course; exceeding expectations; completion of all required work |
-| B | GOOD: conversant in all course topics; completion of all course work |
-| C | SATISFACTORY: comprehension of the material and completion of basic requirements |
-| D | Completion of minimal requirements and demonstration of minimal competence, academic credit is awarded |
-| F | Failure to complete minimal requirements or to demonstrate comprehension of key course topics, recorded as No Credit for those not opting for letter grades |
-
-You can always resubmit a lab or homework. This should be done by checking in with me during the Friday workshop or during a help session when we can look over the changes you have made together.
 
 ## Policies
 
@@ -178,7 +172,7 @@ If you anticipate or experience any barriers to learning in this course, please 
 
 ### Late work, extensions, and special circumstances
 
-All work is due on the stated due date. Due dates are there to help guide your pace through the course and they also allow me to return feedback to you in a timely manner. However, sometimes life gets in the way and you might not be able to turn in your work on time. First, please note that resubmission is built into each assignment. You will receive feedback on each assignment and may resubmit a piece of work by meeting with me during the Friday workshop or checking in with me at a help session during the trimester.
+All work is due on the stated due date. Due dates are there to help guide your pace through the course and they also allow me to return feedback to you in a timely manner. However, sometimes life gets in the way and you might not be able to turn in your work on time. First, please note that resubmission is built into each assignment. You will receive feedback on each assignment and may resubmit a piece of work incorporating your revisions.
 
 If you intend to submit work late for an assignment or project, you must **notify me** before the original deadline and as soon as the completed work is submitted on GitHub. This allows me to return feedback to you and let's me know when to check your work. Lab work cannot be submitted late. 
 
