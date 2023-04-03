@@ -11,6 +11,8 @@ subtitle = "Showcase your inner data scientist"
 
 The final project for this class will consist of analysis on a dataset of your own choosing. The dataset may already exist, or you may collect your own data using a survey or by conducting an experiment. You can choose the data based on your interests or based on work in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a novel dataset in a meaningful way.
 
+There will also be the option to work on datasets and projects proposed by community partners. More info to come. 
+
 The goal is not to do an exhaustive data analysis i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let me know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
 
 The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (`tidyverse`) is required. You do not need to visualize all of the data at once. A single high quality visualization will receive a much higher grade than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. 
@@ -53,7 +55,7 @@ Below are a list of data repositories that might be of interest to browse. You'r
 1. Proposal     - due Saturday, October 22, 23:59 EST
 1. Presentation outline (Optional) - due Saturday, October 29, 23:59 EST
 1. Write-up     - due Friday, November 11, 23:59 EST
-1. Presentation - due Tuesday or Wednesday, November 15 or 16 (In class)
+1. Presentation - due Tuesday or Wednesday, June  (In class)
 
 #### Team Contract
 

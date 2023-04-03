@@ -1,7 +1,7 @@
 ---
 title: "Overview"
 author: ''
-date: '2022-09-12'
+date: '2024-04-03'
 slug: []
 categories: []
 tags: []
@@ -10,7 +10,7 @@ summary: This is a tentative course schedule. The flow of topics might change sl
   depending on how quickly / slowly it feels right to progress through them. However
   the deadlines for assignments will not change barring unexpected circumstances.
 authors: []
-lastmod: '2022-09-12T10:39:50-04:00'
+lastmod: '2024-09-12T10:39:50-04:00'
 featured: yes
 image:
   caption: Calendar. Photo by <a href="https://unsplash.com/@olivetatiane?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olive

@@ -1,14 +1,14 @@
 ---
 title: 'Week 5 - Model validation and uncertainty quantification'
 author: ''
-date: '2022-04-29'
+date: '2023-04-29'
 slug: []
 categories: []
 tags: []
 subtitle: 'Model validation and uncertainty quantification :white_check_mark:'
 summary: 'Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals.'
 authors: []
-lastmod: '2022-04-29T14:17:18-04:00'
+lastmod: '2023-04-29T14:17:18-04:00'
 featured: no
 image:
   caption: 'Mountain fog. Photo by <a href="https://unsplash.com/@worldsbetweenlines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Hendry</a> on <a href="https://unsplash.com/s/photos/maine-fog-boat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

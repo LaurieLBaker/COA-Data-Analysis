@@ -1,14 +1,14 @@
 ---
 title: 'Week 2 - Web scraping and programming'
 author: ''
-date: '2022-04-08'
+date: '2023-04-08'
 slug: []
 categories: []
 tags: []
 subtitle: 'Harvesting data from the web, writing functions, and iteration :spider_web:'
 summary: 'Harvesting data from the web, writing functions, and iteration.'
 authors: []
-lastmod: '2022-04-08T09:55:18-04:00'
+lastmod: '2023-04-08T09:55:18-04:00'
 featured: no
 image:
   caption: 'Spider web. Photo by <a href="https://unsplash.com/@tbishop2?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Thomas Bishop</a> on <a href="https://unsplash.com/s/photos/spider-web-dew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -25,7 +25,7 @@ projects: []
 - Complete the [assignments](/post/02-week/#assignments)
 
 
-### Lectures
+### Topic Intros
 
 <!-- You can access the course videos on YouTube. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM). -->
 

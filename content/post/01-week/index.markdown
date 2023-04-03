@@ -1,14 +1,14 @@
 ---
 title: 'Week 1 - Refresher'
 author: ''
-date: '2022-03-25'
+date: '2023-04-03'
 slug: []
 categories: []
 tags: []
 subtitle: 'Time to dust off our data skills'
 summary: 'Refresher and introduction to the toolkit!'
 authors: []
-lastmod: '2022-03-25T10:41:48-04:00'
+lastmod: '2023-04-03T10:41:48-04:00'
 featured: no
 image:
   caption: 'Partial rear view of a monster with image focusing on their safety harness with a GitHub Octocat logo, chalk bag, carabiners, and rope. Artwork by <a href="https://github.com/allisonhorst/stats-illustrations/blob/main/github-illustrated-series/github_harness.jpeg">Allison Horst</a>
@@ -48,7 +48,8 @@ projects: []
 |:---|:---|:---|
 | *Due this week* | | |
 | S 00 | [Syllabus](https://classroom.google.com/) add a question or comment | Sun, 9 April, 23:59 EST |
-| Lab 1 | [Hello DCS!](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-01/lab-01-hello-r.html)  | Tue, 11 Apr|
+| *Due next week* | | |
+| Lab 0 | [Hello DCS!](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-01/lab-01-hello-r.html)  | Tue, 11 Apr|
 
 
 ### Readings

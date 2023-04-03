@@ -56,8 +56,9 @@ All books for this course are freely available online as e-books. We will be usi
 - [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 - [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin.
 
-We will also have chapters and readings from the following opensource books:
-- 
+We will also have chapters and readings from the following opensource books on Text Analysis and Machine Learning:
+- [Text Mining with R](https://www.tidytextmining.com/index.html)
+- [Supervised Machine Learning for Text Analysis in R](https://smltar.com/mlclassification.html)
 
 
 ### Technology:

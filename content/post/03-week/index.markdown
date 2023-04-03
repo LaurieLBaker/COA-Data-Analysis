@@ -1,14 +1,14 @@
 ---
 title: 'Week 3 - Modelling data'
 author: ''
-date: '2022-04-15'
+date: '2023-04-15'
 slug: []
 categories: []
 tags: []
 subtitle: 'Linear models for predicting numerical data from single and multiple variables :chart_with_upwards_trend:'  
 summary: 'Linear models for predicting numerical data from single and multiple variables.'
 authors: []
-lastmod: '2022-04-15T11:16:28-04:00'
+lastmod: '2023-04-15T11:16:28-04:00'
 featured: no
 image:
   caption: 'Light patterns. Photo by <a href="https://unsplash.com/@rstone_design?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryan Stone</a> on <a href="https://unsplash.com/s/photos/pattern-nature-linear?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
