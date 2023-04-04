@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Timetable"
-subtitle = "Topic Intro Tuesday, Wednesday Lab, Workshop Friday, Help Sessions TBD."
+subtitle = "Topic Intros Tuesday, Wednesday, Lab Friday, Help Sessions TBD."
 
 # Showcase important course info at a glance.
 # 

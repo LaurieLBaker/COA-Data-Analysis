@@ -101,7 +101,7 @@ Everyone is welcome at help sessions! Attending these sessions help students do 
 
 ### Labs
 
-These will be held on Wednesdays. During these sessions you will work individually or in teams on computing lab exercises and you will finish the exercises after class and turn in your lab reports the following Wednesday at 23:59 EST. Attendance to class is important as you will be working on your labs individually and together in class. Labs will be submitted as GitHub repositories.
+These will be held on Fridays. During these sessions you will work individually or in teams on computing lab exercises and you will finish the exercises after class and turn in your lab reports the following Friday at 23:59 EST. Attendance to class is important as you will be working on your labs individually and together in class. Labs will be submitted as GitHub repositories.
 
 A frequently asked question is "What happens if I can't make it to a lab one week because I'm sick or have another obligation at that time?" Answers below:
 
