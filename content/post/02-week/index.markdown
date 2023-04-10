@@ -20,7 +20,6 @@ projects: []
 
 ### Tasks
 
-- Review the [lectures](/post/02-week/#lectures)
 - Complete the [readings](/post/02-week/#readings)
 - Complete the [assignments](/post/02-week/#assignments)
 
@@ -43,7 +42,7 @@ projects: []
 | 02 | Scraping top 250 movies on IMDB | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d19-top-250-imdb/u2-d19-top-250-imdb.html) |
 | 03 | Web scraping considerations | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d20-considerations/u2-d20-considerations.html) |
 | 04 | Functions |[<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d21-functions/u2-d21-functions.html) |
-| 05 | Iteration | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d22-iteration/u2-d22-iteration.html) | 13:54 | 
+| 05 | Iteration | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u2-d22-iteration/u2-d22-iteration.html) |
 
 ### Class Activities
 
@@ -60,11 +59,11 @@ projects: []
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| Q 01 | [Scrape + iterate](https://laurie-the-student-baker.shinyapps.io/05-scrape-iterate/#section-submit) | Sun, 19 April 23:59 EST |
+| Q 01 | [Scrape + iterate](https://laurie-the-student-baker.shinyapps.io/05-scrape-iterate/) | Sun, 19 April 23:59 EST |
 | *Due next week* | | |
 | Lab 01 | [UoE Art Collection](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-08/lab-08-uoe-art.html) | Fri, 21 April 23:59 EST |
 | HW 01  | [Money in politics](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-06/hw-06-money-in-politics.html) | Fri, 21 April 23:59 EST |
-| Q 02 | [Review](https://laurie-the-student-baker.shinyapps.io/06-review/#section-get-started) | Sun 23:59 EST |
+| Q 02 | [Simple linear regression](https://laurie-the-student-baker.shinyapps.io/07-modeling-simple/#section-teacher-salaries) | Sun 23:59 EST |
 
 ### Readings
 
