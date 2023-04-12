@@ -30,8 +30,8 @@ subtitle = "Topic Intros Tuesday, Wednesday, Lab Friday, Help Sessions TBD."
 [[feature]]
   icon = "comments"
   icon_pack = "far"
-  name = "TBD"
-  description = "Help Sessions in CHE 103"  
+  name = "Thursday, Friday"
+  description = "Help Sessions 3:30-6:00 Thursday and 6:30-7:30 Friday"  
   
 
 
