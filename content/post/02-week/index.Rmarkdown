@@ -81,6 +81,10 @@ The following are interactive R tutorials, designed to give you more practice wi
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
 | [Money in US Politics](https://minecr.shinyapps.io/dsbox-05-moneyinpolitics/) | Related to HW 06 |
-| [Write functions](https://rstudio.cloud/learn/primers/6) (Function basics, How to write a function, and Arguments) | *Optional* |
-| [Iterate](https://rstudio.cloud/learn/primers/5) (Introduction to iteration, Map, and Map shortcuts) | *Optional* |
+| [Write functions](https://rstudio.cloud/learn/primers/6) (Function basics, How to write a function, and Arguments) | **Required** |
+| [Iterate](https://rstudio.cloud/learn/primers/5) (Introduction to iteration, Map, and Map shortcuts) | **Required** |
+| [Regular Expressions Cheatsheet](https://regexlearn.com/cheatsheet) | *Optional* |
+| [Regular Expressions 101 Code Testing Tool](https://regex101.com/) | *Optional* |
+| [Exploring the linguistics behind regular expressions](https://www.freecodecamp.org/news/exploring-the-linguistics-behind-regular-expressions-596fab41146/) | *Optional* |
+
 
