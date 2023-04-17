@@ -59,6 +59,8 @@ projects: []
 |:---:|:---|:---:|
 | :open_book: | IMS: [Chp 7 - Introduction to linear models](https://openintro-ims.netlify.app/model-slr.html) | **Required** |
 | :open_book: | IMS: [Chp 8 - Regression with multiple predictors](https://openintro-ims.netlify.app/model-mlr.html) | **Required** |
+| :page_facing_up: | [Faculty Salaries Visualization by Michael Freeman](http://mfviz.com/hierarchical-models/) | **Optional** |
+
 
 ### Interactive R tutorials
 
