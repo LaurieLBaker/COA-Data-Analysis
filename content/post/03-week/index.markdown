@@ -20,7 +20,6 @@ projects: []
 
 ### Tasks
 
-- Review the [slides](/post/03-week/#videos)
 - Complete the [assignments](/post/03-week/#assignments)
 - Complete the [readings](/post/03-week/#readings)
 
@@ -38,8 +37,8 @@ projects: []
 | <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
 |:---|:---|:---|
 | Topic Intro| Model Fitting and Interpreting | Tue |
-| Topic | Models with Multiple Predictors | Wed|
-| Review | Review | Fri|
+| Topic Intro | Models with Multiple Predictors | Wed|
+| Lab | Lab | Fri|
 
 ### Assignments
 
