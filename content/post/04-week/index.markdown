@@ -1,14 +1,14 @@
 ---
 title: 'Week 4 - Classification and model building'
 author: ''
-date: '2023-04-22'
+date: '2023-04-21'
 slug: []
 categories: []
 tags: []
 subtitle: 'Logistic regression for predicting categorical data and model building :construction:'
 summary: 'Logistic regression for predicting categorical data and model building.'
 authors: []
-lastmod: '2023-04-22T13:34:23-04:00'
+lastmod: '2023-04-21T13:34:23-04:00'
 featured: no
 image:
   caption: 'Painted wall. Photo by <a href="https://unsplash.com/@deepcreation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Deepak Verma</a> on <a href="https://unsplash.com/collections/UvAs0qKEScE/painted-walls?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
