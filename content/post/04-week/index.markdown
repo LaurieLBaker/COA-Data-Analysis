@@ -31,7 +31,7 @@ projects: []
 |:---:|:---------------------|:-------:|:--------:|
 | 1 | Logistic regression | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u4-d06-logistic-reg/u4-d06-logistic-reg.html) | 
 | 2 | Prediction and overfitting | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u4-d07-prediction-overfitting/u4-d07-prediction-overfitting.html) |
-| 3 | Feature engineering | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u4-d08-feature-engineering/u4-d08-feature-engineering.html) |
+
 
 ### Class Activities
 
@@ -58,14 +58,10 @@ projects: []
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
 | :open_book: | IMS: [Chp 9 - Logistic regression](https://openintro-ims.netlify.app/model-logistic.html) | **Required** |
-| :page_facing_up: | tidymodels: [Build a model](https://www.tidymodels.org/start/models/) | Optional |
-| :page_facing_up: | tidymodels: [Preprocess your data with recipes](https://www.tidymodels.org/start/recipes/) | Optional |
+| :page_facing_up: | tidymodels: [Build a model](https://www.tidymodels.org/start/models/) | **Required** |
 
 
 ### Interactive R tutorials
 
-The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you're struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.
-
-|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
-|:---|:---|
+No interactive tutorials this week. 
 
