@@ -99,12 +99,13 @@ what are the cases, what are the variables, etc.).
 and codebook to the README in that folder. Then print out the output of 
 `glimpse()` or `skim()` of your data frame.
 
-- Section 3 - Data analysis plan:
-  - The outcome (response, Y) and predictor (explanatory, X) variables you will use to explore your question.
+- Section 3 - Data Ethics: We will be conducting a review of the ethics of our data analysis project using the questions outlined in the [Data Ethics Canvas](https://theodi.org/wp-content/uploads/2021/07/Data-Ethics-Canvas-English-Colour.pdf) by the Open Data Institute. Specifically we will look at the questions under "Limitations in Data Sources", "Your reasons for using data", "Positive effects on people", "Negative effects on people", and "Minimising negative impact".
+
+- Section 4 - Data analysis plan:
+  - The outcome (response, Y) and predictor (explanatory, X) variables you will use to explore your question. The type of model you will use to explore your question.
   - The comparison groups you will use, if applicable.
   - Very preliminary exploratory data analysis, including some summary statistics 
-and visualizations, along with some explanation on how they help you learn more 
-about your data. (You can add to these later as you work on your project.)
+and visualizations, along with some explanation on how they help you learn more about your data. (You can add to these later as you work on your project.)
   - The data visualization(s) that you believe will be useful in exploring your 
 question(s). (You can update these later as you work on your project.)
 
@@ -132,11 +133,11 @@ This write-up, which you can also think of as an summary of your project, should
 
 The following folders and files in your project repository:
 
-* `presentation.Rmd` + `presentation.html`: Your presentation slides
+* `presentation.Rmd` + `presentation.html`: Your presentation slides. Note that you may use google slides instead of `xaringan`
 * `README.md`: Your write-up
 * `/data/*`: Your dataset in csv or RDS format, in the `/data` folder.
-* `/proposal`: Your proposal from earlier in the semester
-* `/contract`: Your group contract from earlier in the semester
+* `/proposal`: Your proposal from earlier in the term
+* `/contract`: Your group contract from earlier in the term
 
 Style and format does count for this assignment, so please take the time to make sure everything looks good and your data and code are properly formatted including labelling code chunks. Pay attention to images and plots included in the presentation and make sure to include appropriate alternative text.
 
@@ -154,6 +155,6 @@ Style and format does count for this assignment, so please take the time to make
 ### Criteria
 
 - **Content** - What is the quality of research and/or policy question and relevancy of data to those questions?
-- **Correctness** - Are the data visualizations chosen an effective means of exploring the questions?
+- **Correctness** - Are the data visualizations chosen an effective means of exploring the questions? Are the statistical models chosen an effective means of exploring the data? Are the results interpreted correctly?
 - **Writing and Presentation** - What is the quality of the statistical presentation, writing, and explanations?
 - **Creativity and Critical Thought** - Is the project carefully thought out? Are the limitations carefully considered? Does it appear that time and effort went into the planning and implementation of the project?
