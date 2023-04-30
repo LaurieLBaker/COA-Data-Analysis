@@ -54,15 +54,20 @@ projects: []
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| Q 04 | [Modeling overview](https://laurie-the-student-baker.shinyapps.io/09-modeling-overview/#section-questions)  | Sun, 23:59 EST |
+| Lab 03 | [GSS Survey](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-08/hw-08-exploring-gss.html) | Fri, 5 May 23:59 EST |
+| Project| [Team contract](/#project) | Sat, 6 May 23:59 EST |
+| Q 04 | [Modeling overview](https://laurie-the-student-baker.shinyapps.io/09-modeling-overview/#section-questions)  | Sun, 7 May 23:59 EST |
 | *Due next week* | | |
-| Something | Place Holder | Tue 23:59 EST |
+| Project | [Proposal](/#project) | Wed, May 10, 23:59 EST|
+| Lab 04 | Link coming soon | Fri, May 12, 23:59 EST |
+
 
 ### Readings
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
 | :page_facing_up: | tidymodels: [Evaluate your model with resampling](https://www.tidymodels.org/start/resampling/) | **Required** |
+| :page_facing_up: | tidymodels: [Feature Engineering with Recipes](https://www.tidymodels.org/start/recipes/) | **Required** |
 | :open_book: | IMS: [Bootstrap confidence intervals](https://openintro-ims.netlify.app/inference-applications.html?q=bootstrapping#inference-applications) | **Required** |
 
 ### Interactive R tutorials
