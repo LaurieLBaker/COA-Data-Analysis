@@ -48,10 +48,10 @@ projects: []
 |:---|:---|:---|
 | Topic Intro | Feature Engineering | Tue, 2 May |
 | Topic Intro | Cross Validation | Wed, 3 May |
-| Lab | Lab | Fri, 5 May | 
+| Lab | [Lab 4: Modeling GSS](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-09/hw-09-modeling-gss.html) | Fri, 5 May | 
 | Topic Intro | Quantifying Uncertainty | Tue, 9 May |
 | Topic Intro | Bootstrapping | Wed, 10 May |
-| Project | Proposal Review | Fri, 12 May | 
+| Project | Proposal Review and Data Ethics | Fri, 12 May | 
 
 ### Assignments
 
@@ -63,7 +63,7 @@ projects: []
 | Q 04 | [Modeling overview](https://laurie-the-student-baker.shinyapps.io/09-modeling-overview/#section-questions)  | Sun, 7 May 23:59 EST |
 | *Due next week* | | |
 | Project | [Proposal](/#project) | Wed, May 10, 23:59 EST|
-| Lab 04 | GSS Part 2 | Fri, May 12, 23:59 EST |
+| Lab 04 | [Modelling GSS](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-09/hw-09-modeling-gss.html)  | Fri, May 19, 23:59 EST |
 
 
 ### Readings
