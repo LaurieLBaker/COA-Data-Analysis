@@ -52,7 +52,7 @@ Below are a list of data repositories that might be of interest to browse. You'r
 ### Deliverables
 
 1. Team contract - due Saturday, May 6, 23:59 EST
-1. Proposal     - due Saturday, May 6, 23:59 EST
+1. Proposal     - due Thursday, May 11, 23:59 EST
 1. Presentation outline (Optional) - due Saturday, May 27, 23:59 EST
 1. Presentation - due Tuesday or Wednesday, June 6 and 7  (In class)
 1. Write-up     - due Friday, June 9, 23:59 EST
