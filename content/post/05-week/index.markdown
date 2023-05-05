@@ -62,7 +62,7 @@ projects: []
 | Project| [Team contract](/#project) | Sat, 6 May 23:59 EST |
 | Q 04 | [Modeling overview](https://laurie-the-student-baker.shinyapps.io/09-modeling-overview/#section-questions)  | Sun, 7 May 23:59 EST |
 | *Due next week* | | |
-| Project | [Proposal](/#project) | Wed, May 10, 23:59 EST|
+| Project | [Proposal](/#project) | Thu, May 11, 23:59 EST|
 | Lab 04 | [Modelling GSS](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-09/hw-09-modeling-gss.html)  | Fri, May 19, 23:59 EST |
 
 
