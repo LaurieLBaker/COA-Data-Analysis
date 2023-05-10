@@ -73,8 +73,12 @@ projects: []
 | :page_facing_up: | tidymodels: [Feature Engineering with Recipes](https://www.tidymodels.org/start/recipes/) | **Required** |
 | :page_facing_up: | tidymodels: [Evaluate your model with resampling](https://www.tidymodels.org/start/resampling/) | **Required** |
 | :open_book: | IMS: [Bootstrap confidence intervals](https://openintro-ims.netlify.app/inference-applications.html?q=bootstrapping#inference-applications) | **Required** |
+| :page_facing_up: | [What is the Question by Roger Peng and Jeffrey Leek](https://www.aaas.org/sites/default/files/Stats_What_Question_2015.pdf?g_zGQR5m3rDJqwXqJ3DxLI5pXZ3hNdHk) | **Required** |
 
 ### Interactive R tutorials
 
-No interactive tutorials this week.
+|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
+|:---|:---|
+| IMS: [Bootstrapping Tutorial](https://openintro.shinyapps.io/ims-05-infer-05/) | Related to Lab 04 |
+
 
