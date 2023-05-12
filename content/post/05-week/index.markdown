@@ -72,9 +72,15 @@ projects: []
 |:---:|:---|:---:|
 | :page_facing_up: | tidymodels: [Feature Engineering with Recipes](https://www.tidymodels.org/start/recipes/) | **Required** |
 | :page_facing_up: | tidymodels: [Evaluate your model with resampling](https://www.tidymodels.org/start/resampling/) | **Required** |
+| :page_facing_up: | [What is the question by Jeffrey Leek and Roger Peng](https://www.science.org/doi/10.1126/science.aaa6146) | **Required** |
 | :open_book: | IMS: [Bootstrap confidence intervals](https://openintro-ims.netlify.app/inference-applications.html?q=bootstrapping#inference-applications) | **Required** |
 
 ### Interactive R tutorials
 
 No interactive tutorials this week.
+
+|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
+|:---|:---|
+| [Bootstrapping](https://openintro.shinyapps.io/ims-05-infer-05/#section-rent-in-manhattan) | Bootstrapping Practice|
+
 
