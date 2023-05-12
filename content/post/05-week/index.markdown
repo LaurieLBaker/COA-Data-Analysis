@@ -80,11 +80,6 @@ projects: []
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| IMS: [Bootstrapping Tutorial](https://openintro.shinyapps.io/ims-05-infer-05/) | Related to Lab 04 |
-
-
-|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
-|:---|:---|
 | [Bootstrapping](https://openintro.shinyapps.io/ims-05-infer-05/#section-rent-in-manhattan) | Bootstrapping Practice|
 
 
