@@ -44,10 +44,13 @@ projects: []
 
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
-| *Due next week* | | |
+| *Due this week* | | |
 | HW 04 | [Introduction - Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/#section-introduction) | |
 | HW 04 | [Ted Talk - Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/#section-thank-you-for-coming-to-my-ted-talk) | Fri, 26 May 23:59 EST |
 | HW 04| [Shakespeare Gets Sentimental - Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/#section-shakespeare-gets-sentimental) | Fri, 26 May 23:59 EST |
+| *Due next week* | | |
+| Lab 05 | [Choose Your Own Text Adventure Part I](https://classroom.google.com/) | Fri, 9 June 23:59 EST |
+
 
 
 

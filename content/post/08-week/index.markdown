@@ -21,24 +21,24 @@ projects: []
 
 ### Tasks
 
-- Review the [slides](/post/07-week/#topics)
-- Complete the [assignments](/post/07-week/#assignments)
-- Complete the [readings](/post/07-week/#readings)
+- Review the [slides](/post/08-week/#topics)
+- Complete the [assignments](/post/08-week/#assignments)
+- Complete the [readings](/post/08-week/#readings)
 
 ### Topics
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">Slides</div> |
 |:---:|:---------------------|:-------:|:--------:|
-| 1 | Tidy Text and Sentiment Analysis | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/01-tidytext.html#/title-slide) | 
-| 2 | Exploratory Data Analysis | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/02-more-eda.html#/title-slide) |
+| 1 | Exploratory Data Analysis | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/02-more-eda.html#/title-slide) |
+| 2 | Topic Modelling | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/03-topic-models.html#/workflow-for-text-miningmodeling-1) | 
 
 ### Class Activities
 
 | <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Topic Intro | Tidy Text and Sentiment Analysis | Tue, 16 May |
-| Topic Intro | Sentiment Analysis | Wed, 17 May |
-| Tutorial | [Tidy Text Tutorial Practice](https://juliasilge.shinyapps.io/learntidytext/#section-introduction) | Fri, 19 May |
+| Topic Intro | Exploratory Data Analysis continued | Tue, 23 May |
+| Topic Intro | Comparing Texts | Wed, 24 May |
+| Tutorial | Tidy Text Tutorial Practice| Fri, 26 May |
 
 
 ### Assignments
@@ -46,12 +46,10 @@ projects: []
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| HW 04 | [Introduction - Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/#section-introduction) | Fri, 26 May 23:59 EST |
-| HW 04 | [Ted Talk - Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/#section-thank-you-for-coming-to-my-ted-talk) | Fri, 26 May 23:59 EST |
-| HW 04| [Shakespeare Gets Sentimental - Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/#section-shakespeare-gets-sentimental) | Fri, 26 May 23:59 EST |
-| *Due next week* | | |
 | HW 05 | [Newspaper Headlines - Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/#section-newspaper-headlines) | Fri, 2 June 23:59 EST|
 | HW 05 | [Singing a Different Tune - Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/#section-singing-a-different-tune) | Fri, 2 June 23:59 EST |
+| *Due next week* | | |
+| Lab 06 | [Choose Your Own Text Adventure Part II](https://classroom.google.com/) | Fri, 9 June 23:59 EST |
 
 
 ### Readings 
