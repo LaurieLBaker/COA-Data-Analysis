@@ -1,14 +1,14 @@
 ---
 title: 'Week 11 - Looking beyond Data Science II'
 author: ''
-date: '2023-05-30'
+date: '2023-06-30'
 slug: []
 categories: []
 tags: []
 subtitle: 'Looking beyond DCS 210 :eyes:'
 summary: 'Text Analysis, Supervised Machine Learning, and Creating Interactive Applications'
 authors: []
-lastmod: '2023-05-30T14:17:18-04:00'
+lastmod: '2023-06-30T14:17:18-04:00'
 featured: no
 image:
   caption: 'Captain steering boat. Photo by <a href="https://unsplash.com/@garrettpsystems?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">garrett parker</a> on <a href="https://unsplash.com/s/photos/boat-compass?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
