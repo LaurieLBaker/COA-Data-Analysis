@@ -1,14 +1,14 @@
 ---
 title: 'Week 2 - Web scraping and programming'
 author: ''
-date: '2023-04-08'
+date: '2023-01-14'
 slug: []
 categories: []
 tags: []
 subtitle: 'Harvesting data from the web, writing functions, and iteration :spider_web:'
 summary: 'Harvesting data from the web, writing functions, and iteration.'
 authors: []
-lastmod: '2023-04-08T09:55:18-04:00'
+lastmod: '2023-01-14T09:55:18-04:00'
 featured: no
 image:
   caption: 'Spider web. Photo by <a href="https://unsplash.com/@tbishop2?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Thomas Bishop</a> on <a href="https://unsplash.com/s/photos/spider-web-dew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -48,9 +48,9 @@ projects: []
 
 | <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Topic Intro | Web Scraping and Considerations | Tue, 11 April|
-| Topic Intro | Functions and Iteration | Wed, 12 April |
-| Lab 01 | [UoE Art Collection](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-08/lab-08-uoe-art.html) | Fri, 14 April |
+| Topic Intro | Web Scraping and Considerations | Tue, 16 Jan |
+| Topic Intro | Functions and Iteration | Wed, 17 Jan |
+| Lab 01 | [UoE Art Collection](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-08/lab-08-uoe-art.html) | Fri, 19 Jan |
 
 
 
@@ -59,11 +59,11 @@ projects: []
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| Q 01 | [Scrape + iterate](https://laurie-the-student-baker.shinyapps.io/05-scrape-iterate/) | Sun, 19 April 23:59 EST |
+| Q 01 | [Scrape + iterate](https://laurie-the-student-baker.shinyapps.io/05-scrape-iterate/) | Sun, 21 Jan 23:59 EST |
 | *Due next week* | | |
-| Lab 01 | [UoE Art Collection](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-08/lab-08-uoe-art.html) | Fri, 21 April 23:59 EST |
-| HW 01  | [Money in politics](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-06/hw-06-money-in-politics.html) | Fri, 21 April 23:59 EST |
-| Q 02 | [Simple linear regression](https://laurie-the-student-baker.shinyapps.io/07-modeling-simple/#section-teacher-salaries) | Sun 23:59 EST |
+| Lab 01 | [UoE Art Collection](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-08/lab-08-uoe-art.html) | Thu, 25 Jan 23:59 EST |
+| HW 01  | [Money in politics](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-06/hw-06-money-in-politics.html) | Fri, 26 Jan 23:59 EST |
+| Q 02 | [Simple linear regression](https://laurie-the-student-baker.shinyapps.io/07-modeling-simple/#section-teacher-salaries) | Sun, 28 Jan 23:59 EST |
 
 ### Readings
 
@@ -80,7 +80,11 @@ The following are interactive R tutorials, designed to give you more practice wi
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| [Money in US Politics](https://minecr.shinyapps.io/dsbox-05-moneyinpolitics/) | Related to HW 06 |
-| [Write functions](https://rstudio.cloud/learn/primers/6) (Function basics, How to write a function, and Arguments) | *Optional* |
-| [Iterate](https://rstudio.cloud/learn/primers/5) (Introduction to iteration, Map, and Map shortcuts) | *Optional* |
+| [Money in US Politics](https://minecr.shinyapps.io/dsbox-05-moneyinpolitics/) | Related to HW 01 |
+| [Write functions](https://rstudio.cloud/learn/primers/6) (Function basics, How to write a function, and Arguments) | **Required** |
+| [Iterate](https://rstudio.cloud/learn/primers/5) (Introduction to iteration, Map, and Map shortcuts) | **Required** |
+| [Regular Expressions Cheatsheet](https://regexlearn.com/cheatsheet) | *Optional* |
+| [Regular Expressions 101 Code Testing Tool](https://regex101.com/) | *Optional* |
+| [Exploring the linguistics behind regular expressions](https://www.freecodecamp.org/news/exploring-the-linguistics-behind-regular-expressions-596fab41146/) | *Optional* |
+
 

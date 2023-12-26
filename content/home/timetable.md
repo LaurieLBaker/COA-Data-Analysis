@@ -17,22 +17,25 @@ subtitle = "Topic Intros Tuesday, Wednesday, Lab Friday, Help Sessions TBD."
 [[feature]]
   icon = "keyboard"
   icon_pack = "fas"
-  name = "Tuesday and Wednesday"
-  description = "Topic Intro - 9:35-11:00"
+  name = "Tuesday"
+  description = "Topic Intro - 13:00-14:25"
+  
+[[feature]]
+  icon = "keyboard"
+  icon_pack = "fas"
+  name = "Wednesday"
+  description = "Topic Intro - 14:35-16:00"
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Friday"
-  description = "Lab - 9:35-11:00"  
-
+  description = "Lab - 13:00-14:25"  
 
 [[feature]]
   icon = "comments"
   icon_pack = "far"
-  name = "Thursday, Friday"
-  description = "Help Sessions 3:30-6:00 Thursday and 6:30-7:30 Friday"  
+  name = "TBD"
+  description = "Help Sessions TBD"  
   
-
-
 +++

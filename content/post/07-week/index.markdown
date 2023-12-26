@@ -1,17 +1,18 @@
 ---
-title: 'Week 7 - Introduction to Text Analysis'
+title: 'Week 6 - Classification and model building'
 author: ''
-date: '2023-05-12'
+date: '2023-04-21'
 slug: []
 categories: []
 tags: []
-subtitle: 'Working with text data :construction:'
-summary: 'Working with text data.'
+subtitle: 'Logistic regression for predicting categorical data and model building :construction:'
+summary: 'Logistic regression for predicting categorical data and model building.'
 authors: []
-lastmod: '2023-05-14T13:34:23-04:00'
+lastmod: '2023-04-21T13:34:23-04:00' 
 featured: no
 image:
-  caption: 'Excerpt from the Freeland Bunker Journals.'
+  caption: 'Painted wall. Photo by <a href="https://unsplash.com/@deepcreation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Deepak Verma</a> on <a href="https://unsplash.com/collections/UvAs0qKEScE/painted-walls?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  '
   focal_point: ''
   preview_only: no
 projects: []
@@ -20,24 +21,25 @@ projects: []
 
 ### Tasks
 
-- Review the [slides](/post/07-week/#topics)
-- Complete the [assignments](/post/07-week/#assignments)
-- Complete the [readings](/post/07-week/#readings)
+- Review the [slides](/post/04-week/#topics)
+- Complete the [assignments](/post/04-week/#assignments)
+- Complete the [readings](/post/04-week/#readings)
 
 ### Topics
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">Slides</div> |
 |:---:|:---------------------|:-------:|:--------:|
-| 1 | Tidy Text and Sentiment Analysis | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/01-tidytext.html#/title-slide) | 
-| 2 | Exploratory Data Analysis | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/02-more-eda.html#/title-slide) |
+| 1 | Logistic regression | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u4-d06-logistic-reg/u4-d06-logistic-reg.html) | 
+| 2 | Prediction and overfitting | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u4-d07-prediction-overfitting/u4-d07-prediction-overfitting.html) |
+
 
 ### Class Activities
 
 | <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Topic Intro | Tidy Text and Sentiment Analysis | Tue, 16 May |
-| Topic Intro | Sentiment Analysis | Wed, 17 May |
-| Tutorial | [Tidy Text Tutorial Practice](https://juliasilge.shinyapps.io/learntidytext/#section-introduction) | Fri, 19 May |
+| Topic Intro | Logistic Regression | Tue, 25 Apr |
+| Topic Intro | Prediction and overfitting | Wed, 26 Apr |
+| Lab 3 | [Lab 3 GSS](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-08/hw-08-exploring-gss.html) | Fri, 28 Apr |
 
 
 ### Assignments
@@ -45,20 +47,26 @@ projects: []
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| HW 04 | [Introduction - Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/#section-introduction) | |
-| HW 04 | [Ted Talk - Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/#section-thank-you-for-coming-to-my-ted-talk) | Fri, 26 May 23:59 EST |
-| HW 04| [Shakespeare Gets Sentimental - Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/#section-shakespeare-gets-sentimental) | Fri, 26 May 23:59 EST |
+| HW 02 | [Bike rentals DC](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-07/hw-07-bike-rentals-dc.html) | Fri, 28 Apr 23:59 EST |
+| Q 03 | [Multiple regression](https://laurie-the-student-baker.shinyapps.io/08-modeling-multiple/?_ga=2.118700233.1577573604.1636342271-2093147404.1629402165#section-lending-club) | Sun, 30 Apr, 23:59 EST |
 | *Due next week* | | |
-| Lab 05 | [Choose Your Own Text Adventure Part I](https://classroom.google.com/) | Fri, 9 June 23:59 EST |
-
-
+| Lab 03 | [GSS Survey](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-08/hw-08-exploring-gss.html) | Fri, 5 May 23:59 EST |
+| Q 04 | [Modeling overview](https://laurie-the-student-baker.shinyapps.io/09-modeling-overview/#section-questions)  | Sun, 7 May, 23:59 EST |
 
 
 ### Readings 
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :open_book: | Text Mining with R: [Tidy Text Format](https://www.tidytextmining.com/tidytext.html) | **Required** |
-| :open_book: | Text Mining with R: [Sentiment Analysis](https://www.tidytextmining.com/sentiment.html) | **Required** |
+| :open_book: | IMS: [Chp 9 - Logistic regression](https://openintro-ims.netlify.app/model-logistic.html) | **Required** |
+| :page_facing_up: | tidymodels: [Build a model](https://www.tidymodels.org/start/models/) | **Required** |
 
+
+### Interactive R tutorials
+
+The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you're struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.
+
+|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
+|:---|:---|
+| [Exploring the GSS](https://minecr.shinyapps.io/dsbox-07-exploregss/) | Related to Lab 03 |
 
