@@ -1,14 +1,14 @@
 ---
-title: 'Week 10 - Looking beyond Data Science II'
+title: 'Week 10 - Final Presentations and Wrap Up'
 author: ''
-date: '2023-06-03'
+date: '2023-03-11'
 slug: []
 categories: []
 tags: []
 subtitle: 'Looking beyond Data Science 2 :eyes:'
 summary: ''
 authors: []
-lastmod: '2023-06-03T14:17:18-04:00'
+lastmod: '2023-03-11T14:17:18-04:00'
 featured: no
 image:
   caption: 'Captain steering boat. Photo by <a href="https://unsplash.com/@garrettpsystems?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">garrett parker</a> on <a href="https://unsplash.com/s/photos/boat-compass?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -38,10 +38,6 @@ projects: []
 ### Readings
 
 There are no required readings this week.
-
-### Tidy Tuesday Text Challenge (Optional)
-
-Analyzing Beyoncé and Taylor Swift Lyrics. The data come from [TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-29/readme.md). TidyTuesday is a weekly social data project for the R community. Read more about TidyTuesday [here](https://github.com/rfordatascience/tidytuesday).
 
 ### Joining a Global Community
 

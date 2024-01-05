@@ -1,14 +1,14 @@
 ---
 title: 'Week 9 - Machine Learning'
 author: ''
-date: '2023-05-28'
+date: '2023-03-03'
 slug: []
 categories: []
 tags: []
 subtitle: 'Intro to Classical Machine Learning :construction:'
 summary: 'Intro to Classical Machine Learning'
 authors: []
-lastmod: '2023-05-28T13:34:23-04:00'
+lastmod: '2023-03-03T13:34:23-04:00'
 featured: no
 image:
   caption: 'Mismatched socks hanging on a clothesline. Photo by <a href="https://unsplash.com/it/@nickpage?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Page</a> on <a href="https://unsplash.com/s/photos/sock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

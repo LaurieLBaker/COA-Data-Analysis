@@ -40,7 +40,7 @@ projects: []
 |:---|:---|:---|
 | Topic Intro | Introduction to the course and doing data science | Tue, Jan 9 |
 | Topic Intro | Scientific Studies and Confounding and Simpson's Paradox | Wed, Jan 10 |
-| Lab | Lab 00: La Quinta | Fri, Jan 12 |
+| Lab | Lab 00: Simpson's Paradox | Fri, Jan 12 |
 
 ### Guest Lectures
 
@@ -56,9 +56,9 @@ projects: []
 | *Due this week* | | |
 | S 00 | [Syllabus](https://classroom.google.com/) add a question or comment | Sun, 14 Jan, 23:59 EST |
 | *Due next week* | | |
-| R 01 | [Weapons of Math Destruction Reflection](https://classroom.google.com/)  | Mon, 15 Jan|
-| Lab 00 | [La Quinta](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-04a/lab-00-viz-sp-data.html)  | Thu, 18 Jan|
-| HW 00 | [College Majors](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-04/hw-04-college-majors.html)  | Fri, 19 Jan|
+| R 01 | [Weapons of Math Destruction Reflection](https://classroom.google.com/)  | Mon, 15 Jan, 23:59 EST |
+| Lab 00 | [Simpson's Paradox](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-07/lab-07-simpsons-paradox.html)  | Thu, 18 Jan, 23:59 EST |
+| HW 00 | [College Majors](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-04/hw-04-college-majors.html)  | Fri, 19 Jan, 23:59 EST |
 
 ### Readings
 

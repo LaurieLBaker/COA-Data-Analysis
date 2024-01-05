@@ -60,10 +60,11 @@ projects: []
 |:---|:---|:---|
 | *Due this week* | | |
 | Q 01 | [Scrape + iterate](https://laurie-the-student-baker.shinyapps.io/05-scrape-iterate/) | Sun, 21 Jan 23:59 EST |
+| Lab 00 | [La Quinta](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-04a/lab-00-viz-sp-data.html)  | Thu, 18 Jan, 23:59 EST |
+| HW 00 | [College Majors](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-04/hw-04-college-majors.html)  | Fri, 19 Jan, 23:59 EST |
 | *Due next week* | | |
 | Lab 01 | [UoE Art Collection](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-08/lab-08-uoe-art.html) | Thu, 25 Jan 23:59 EST |
 | HW 01  | [Money in politics](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-06/hw-06-money-in-politics.html) | Fri, 26 Jan 23:59 EST |
-| Q 02 | [Simple linear regression](https://laurie-the-student-baker.shinyapps.io/07-modeling-simple/#section-teacher-salaries) | Sun, 28 Jan 23:59 EST |
 
 ### Readings
 
@@ -76,7 +77,7 @@ projects: []
 
 ### Interactive R tutorials
 
-The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you're struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.
+The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you're struggling with any of the topics covered this week, I strongly recommend you work through the interactive tutorials.
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
