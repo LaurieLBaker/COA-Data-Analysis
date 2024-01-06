@@ -1,12 +1,12 @@
 ---
-title: 'Week 3 - Introduction to Text Analysis'
+title: 'Week 3 - Working with strings'
 author: ''
 date: '2023-01-21'
 slug: []
 categories: []
 tags: []
-subtitle: 'Working with text data :construction:'
-summary: 'Working with text data.'
+subtitle: 'Working with character strings :construction:'
+summary: 'Working with character strings.'
 authors: []
 lastmod: '2023-01-21T13:34:23-04:00'
 featured: no
