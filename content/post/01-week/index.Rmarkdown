@@ -1,12 +1,12 @@
 ---
-title: 'Week 1 - Refresher'
+title: 'Week 1 - Doing Data Science'
 author: ''
 date: '2023-01-07'
 slug: []
 categories: []
 tags: []
 subtitle: 'Time to dust off our data skills'
-summary: 'Refresher and introduction to the toolkit!'
+summary: 'Refresher and introduction to the course!'
 authors: []
 lastmod: '2023-01-07T10:41:48-04:00'
 featured: no
@@ -42,12 +42,6 @@ projects: []
 | Topic Intro | Scientific Studies and Confounding and Simpson's Paradox | Wed, Jan 10 |
 | Lab | Lab 00: Simpson's Paradox | Fri, Jan 12 |
 
-### Guest Lectures
-
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> |
-|:---:|:---------------------|:-----------:|
-| :microphone: | *Cathy O'Neil - Weapons of Math Destruction* | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/TQHs8SA1qpk) |
-
 
 ### Assignments
 
@@ -56,7 +50,6 @@ projects: []
 | *Due this week* | | |
 | S 00 | [Syllabus](https://classroom.google.com/) add a question or comment | Sun, 14 Jan, 23:59 EST |
 | *Due next week* | | |
-| R 01 | [Weapons of Math Destruction Reflection](https://classroom.google.com/)  | Mon, 15 Jan, 23:59 EST |
 | Lab 00 | [Simpson's Paradox](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-07/lab-07-simpsons-paradox.html)  | Thu, 18 Jan, 23:59 EST |
 | HW 00 | [College Majors](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-04/hw-04-college-majors.html)  | Fri, 19 Jan, 23:59 EST |
 
@@ -78,6 +71,6 @@ The following interactive tutorials are a refresher on data viz, working with da
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| [Data Visualization Basics](https://posit.cloud/learn/primers/1.1)         | Extra practice   |
-| [Practice with dplyr](https://posit.cloud/learn/primers/2.2)         | Extra practice |
-| [Practice with joins](https://posit.cloud/learn/primers/4.3)         | Extra practice |
+| [Data Visualization Basics](https://posit.cloud/learn/primers/1.1)         | Review   |
+| [Practice with dplyr](https://posit.cloud/learn/primers/2.2)         | Review |
+| [Practice with joins](https://posit.cloud/learn/primers/4.3)         | Review |
