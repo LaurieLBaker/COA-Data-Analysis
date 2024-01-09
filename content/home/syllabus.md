@@ -12,13 +12,13 @@ title = "Syllabus"
 Continuing on the themes explored in Data Science 1, students will go beyond data visualization to gain insight from data using statistical and machine learning techniques. Students who successfully complete this course will be able to work with large data sets, transform those data, and apply statistical and machine learning techniques to analyze data. Throughout the course we will be using GitHub, ggplot2, Rmarkdown, and the tidyverse packages for data manipulation, visualization and analysis. This course is intended to appeal to a wide range of students. The skills and habits of mind taught in this course are applicable not only in the sciences and social sciences, but in almost all fields. Evaluation will be based on several short homework and lab assignments, participation in in-class activities, and a final project.
 
 
-Unit 1 (Week 1)- Exploring data: This unit is designed as a refresher of data visualization and data wrangling. We end the unit with web scraping and introduce the idea of iteration in preparation for the next unit. Also in this unit students are introduced to the toolkit: R, RStudio, R Markdown, Git, and GitHub.
+Unit 1 (Week 1 to 2)- Exploring data: This unit is designed as a refresher of data visualization and data wrangling. We end the unit with web scraping and introduce the idea of iteration in preparation for the next unit. Also in this unit students are introduced to the toolkit: R, RStudio, R Markdown, Git, and GitHub.
 
-Unit 2 (Week 2 to 5) - Making rigorous conclusions: In this unit we introduce modelling and statistical inference for making data-based conclusions. We discuss data ethics alongside building, interpreting, and selecting models, visualizing interaction effects, and prediction and model validation.
+Unit 2 (Week 3 to 4) - Working with strings, regular expressions, and text analysis. 
 
-Unit 3 (Week 6 to 8) - Text Analysis and Machine Learning: In this unit we explore text analysis and are introduced to time series analysis and machine learning.
+Unit 3 (Week 4 to 8) - Making rigorous conclusions: In this unit we introduce modelling and statistical inference for making data-based conclusions. We discuss data ethics alongside building, interpreting, and selecting models, visualizing results, and prediction and model validation.
 
-Unit 4 (Week 9 to 10) - Project presentations and looking beyond data science II. This unit will include a rotating topic.
+Unit 4 (Week 9 and 10) - Machine Learning and looking beyond Data Science 2: In this unit we delve into supervised machine learning and finish up the course with project presentations and looking beyond data science II.
 
 ### Additional Course Info
 
@@ -63,14 +63,14 @@ We will also have chapters and readings from the following opensource books on T
 
 ### Technology:
 
-- Bring a laptop to every class, we will be programming most days! We will be using RStudioCloud, you will get an invitation to create an account.
+- Bring a laptop to every class, we will be programming most days! We will be using PositCloud, you will get an invitation to create an account.
 - If you are in need of a term long loaner laptop, please contact the IT department at [helpdesk@coa.edu](mailto:helpdesk@coa.edu). Mention that you are taking a data science class, and pick up the laptop in A&S right by the whale skull.
 
 ## Course components
 
 ### Weekly structure
 
-The class meets on Tuesday, Wednesday and Friday from 9.35-11:00. The typical weekly class schedule will be:
+The class meets on Tuesday and Friday from 13:00-14:25 and on Wednesday from 14:35-16:00. The typical weekly class schedule will be:
 
 | Day| Activity|
 | --- | --- |

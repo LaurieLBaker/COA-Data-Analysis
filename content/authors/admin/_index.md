@@ -4,7 +4,7 @@ name: Data Science II - Data Analysis
 organizations:
 - name: College of the Atlantic
   url: "https://classroom.google.com/"
-role: Spring 2023
+role: Winter 2024
 social:
 - icon: github
   icon_pack: fab
