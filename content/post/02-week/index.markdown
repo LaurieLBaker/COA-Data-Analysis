@@ -60,11 +60,11 @@ projects: []
 |:---|:---|:---|
 | *Due this week* | | |
 | Q 01 | [Scrape + iterate](https://laurie-the-student-baker.shinyapps.io/05-scrape-iterate/) | Sun, 21 Jan 23:59 EST |
-| Lab 00 | [La Quinta](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-04a/lab-00-viz-sp-data.html)  | Thu, 18 Jan, 23:59 EST |
+| Lab 00 | [Simpson's Paradox](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-07/lab-07-simpsons-paradox.html) | Thu, 18 Jan, 23:59 EST |
 | HW 00 | [College Majors](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-04/hw-04-college-majors.html)  | Fri, 19 Jan, 23:59 EST |
 | *Due next week* | | |
 | Lab 01 | [UoE Art Collection](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-08/lab-08-uoe-art.html) | Thu, 25 Jan 23:59 EST |
-| HW 01  | [Money in politics](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-06/hw-06-money-in-politics.html) | Fri, 26 Jan 23:59 EST |
+| HW 01  | [Broken:( until further notice Money in politics](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-06/hw-06-money-in-politics.html) | Fri, 26 Jan 23:59 EST |
 
 ### Readings
 
@@ -81,9 +81,7 @@ The following are interactive R tutorials, designed to give you more practice wi
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| [Money in US Politics](https://minecr.shinyapps.io/dsbox-05-moneyinpolitics/) | Related to HW 01 |
-| [Write functions](https://rstudio.cloud/learn/primers/6) (Function basics, How to write a function, and Arguments) | **Required** |
-| [Iterate](https://rstudio.cloud/learn/primers/5) (Introduction to iteration, Map, and Map shortcuts) | **Required** |
+<!-- | [Money in US Politics](https://minecr.shinyapps.io/dsbox-05-moneyinpolitics/) | Related to HW 01 | -->
 | [Regular Expressions Cheatsheet](https://regexlearn.com/cheatsheet) | *Optional* |
 | [Regular Expressions 101 Code Testing Tool](https://regex101.com/) | *Optional* |
 | [Exploring the linguistics behind regular expressions](https://www.freecodecamp.org/news/exploring-the-linguistics-behind-regular-expressions-596fab41146/) | *Optional* |

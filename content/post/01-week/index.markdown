@@ -63,14 +63,11 @@ projects: []
 | :open_book: | IMS::Sec 6.1 [Case study: Effective communication of exploratory results](https://openintro-ims.netlify.app/explore-applications.html) | **Required** |
 | :open_book: | IMS::Sec 2.1 [Study design](https://openintro-ims.netlify.app/data-design.html#sampling-principles-strategies) | **Required** |
 | :fountain_pen: |[Openscapes: GitHub for supporting, reusing, contributing, and failing safely](https://www.openscapes.org/blog/2022/05/27/github-illustrated-series/) | **Optional** |
+| :fountain_pen: |[What is the Question? By Roger Peng and Jeffrey Leek](https://www.aaas.org/sites/default/files/Stats_What_Question_2015.pdf?g_zGQR5m3rDJqwXqJ3DxLI5pXZ3hNdHk) | **Optional** |
+
+
 
 
 ### Interactive R tutorials
 
-The following interactive tutorials are a refresher on data viz, working with data in R, and joins.
-
-|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
-|:---|:---|
-| [Data Visualization Basics](https://posit.cloud/learn/primers/1.1)         | Review   |
-| [Practice with dplyr](https://posit.cloud/learn/primers/2.2)         | Review |
-| [Practice with joins](https://posit.cloud/learn/primers/4.3)         | Review |
+For a refresher on data viz, working with data in R, and joins check out Posit Cloud [recipes](https://posit.cloud/learn/recipes).
