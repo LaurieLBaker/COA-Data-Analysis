@@ -30,7 +30,7 @@ projects: []
 |:---:|:---------------------|:-------:|:--------:|
 | 1 | Working with strings | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u5-d08-stringr-regex/u5-d08-stringr.html#1) |
 | 2 | Working with regular expressions | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/DCS-210/course-materials/slides/u5-d08-stringr-regex/u5-d08-regex.html#1) |
-| 3 | Mining Historical Texts Using Tidy Text Principles | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/01-fb-tidytext.html#/title-slide) |
+| 3 | Wrangling Historical Texts Using Tidy Text Principles | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/01-fb-tidydata.html#/the-journals-1870-1906) |
 
 ### Class Activities
 
@@ -38,7 +38,7 @@ projects: []
 |:---|:---|:---|
 | Topic Intro | Working with strings | Tue, 23 Jan |
 | Topic Intro | Working with regular expressions | Wed, 24 Jan |
-| Case Study | Mining Historical Texts Using Tidy Text Principles | Fri, 26 Jan |
+| Lab | Choose your own text adventure | Fri, 26 Jan |
 
 
 ### Assignments
