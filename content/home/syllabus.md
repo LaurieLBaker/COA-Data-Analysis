@@ -101,7 +101,7 @@ Everyone is welcome at help sessions! Attending these sessions help students do 
 
 ### Labs
 
-These will be held on Fridays. During these sessions you will work individually or in teams on computing lab exercises and you will finish the exercises after class and turn in your lab reports the following Friday at 23:59 EST. Attendance to class is important as you will be working on your labs individually and together in class. Labs will be submitted as GitHub repositories.
+These will be held on Fridays. During these sessions you will work individually or in teams on computing lab exercises and you will finish the exercises after class and turn in your lab reports the following Thursday at 23:59 EST through Sunday 23:59 EST. Attendance to class is important as you will be working on your labs individually and together in class. Labs will be submitted as GitHub repositories.
 
 A frequently asked question is "What happens if I can't make it to a lab one week because I'm sick or have another obligation at that time?" Answers below:
 
@@ -113,7 +113,7 @@ Overall these policies are put in place to ensure communication between team mem
 
 ### Homework assignments
 
-Beyond the in class activities, you will be assigned weekly larger programming tasks throughout the semester. These assignments will be completed individually, and submitted as GitHub repositories. **Tip:** Do the (optional) R tutorials which will introduce you to the datasets and topics covered in the homework assignments.
+Beyond the in class activities, you will be assigned weekly larger programming tasks throughout the semester. These assignments will be completed individually and due on the following Friday 23:59 EST through Sunday 23:59 EST, and submitted as GitHub repositories. **Tip:** Do the (optional) R tutorials which will introduce you to the datasets and topics covered in the homework assignments.
 
 ### Quizzes
 
@@ -149,7 +149,6 @@ The work in this course will be comprised of the following components and their 
 - Reflections: 10%
 
 ## Policies
-
 
 ### Collaboration policy
 

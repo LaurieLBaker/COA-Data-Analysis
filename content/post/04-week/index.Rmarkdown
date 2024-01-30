@@ -29,14 +29,16 @@ projects: []
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">Slides</div> |
 |:---:|:---------------------|:-------:|:--------:|
-| 1 | Comparing Historical Texts | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/02-more-eda-fb.html#/title-slide) |
+| 1 | Mining Historical Texts Using Tidy Text Principles | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/01-fb-tidytext.html#/title-slide) |
+| 2 | Comparing Historical Texts | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/02-more-eda-fb.html#/title-slide) |
+
 
 
 ### Class Activities
 
 | <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Topic Intro | Text Analysis and Sentiment Analysis | Tue, 30 Jan |
+| Topic Intro | Mining Historical Texts | Tue, 30 Jan |
 | Topic Intro | Comparing Historical Texts | Wed, 31 Jan |
 | Lab | Choose Your Own Text Adventure | Fri, 2 Feb |
 
@@ -45,12 +47,13 @@ projects: []
 
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
+| Lab 02 | [Choose Your Own String Adventure Part I](https://classroom.google.com/) | Thu, 1 Feb 23:59 EST |
 | *Due this week* | | |
-| Lab 02 | [Choose Your Own Text Adventure Part I](https://classroom.google.com/) | Thu, 1 Feb 23:59 EST |
+| P 01 | [Project Proposal](https://classroom.google.com/) | Fri, 2 Feb 23:59 EST |
+| P 02 | [Team Contract (If applicable)](https://classroom.google.com/) | Sat, 3 Feb 23:59 EST |
 | *Due next week* | | |
 | Lab 03 | [Choose Your Own Text Adventure Part II](https://classroom.google.com/) | Thu, 8 Feb 23:59 EST |
 | HW 02 | [Learning Tidy Text Tutorial by Julia Silge](https://juliasilge.shinyapps.io/learntidytext/) | Fri, 9 Feb 23:59 EST|
-| Q 02 | [Simple linear regression](https://laurie-the-student-baker.shinyapps.io/07-modeling-simple/#section-teacher-salaries)| Sun, 11 Feb 23:59 EST |
 
 ### Tidy Tuesday Text Challenge (Optional)
 

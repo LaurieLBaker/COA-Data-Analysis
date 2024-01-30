@@ -38,7 +38,7 @@ projects: []
 |:---|:---|:---|
 | Topic Intro | Working with strings | Tue, 23 Jan |
 | Topic Intro | Working with regular expressions | Wed, 24 Jan |
-| Lab | Choose your own text adventure | Fri, 26 Jan |
+| Lab | Choose your own string adventure | Fri, 26 Jan |
 
 
 ### Assignments
@@ -49,7 +49,9 @@ projects: []
 | Lab 01 | [UoE Art Collection](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-08/lab-08-uoe-art.html) | Thu, 25 Jan 23:59 EST |
 | HW 01  | [Broken:( Money in politics](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-06/hw-06-money-in-politics.html) | Fri, 26 Jan 23:59 EST |
 | *Due next week* | | |
-| HW 02 | [Choose Your Own Text Adventure Part I](https://classroom.google.com/) | Thu, 1 Feb 23:59 EST |
+| Lab 02 | [Choose Your Own Text Adventure Part I](https://classroom.google.com/) | Thu, 1 Feb 23:59 EST |
+| P 01 | [Project Proposal](https://classroom.google.com/) | Fri, 2 Feb 23:59 EST |
+| P 02 | [Team Contract (If Applicable)](https://classroom.google.com/) | Sat, 3 Feb 23:59 EST |
 
 
 ### Readings 
