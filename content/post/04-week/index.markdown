@@ -30,7 +30,9 @@ projects: []
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">Slides</div> |
 |:---:|:---------------------|:-------:|:--------:|
 | 1 | Mining Historical Texts Using Tidy Text Principles | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/01-fb-tidytext.html#/title-slide) |
-| 2 | Comparing Historical Texts | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/02-more-eda-fb.html#/title-slide) |
+| 2 | Sentiment Analysis | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/01-tidytext.html#/sentiment-analysis) |
+| 3 | Comparing Historical Texts | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://laurielbaker.github.io/COA-Tidy-Text/slides/02-more-eda-fb.html#/title-slide) |
+
 
 
 
