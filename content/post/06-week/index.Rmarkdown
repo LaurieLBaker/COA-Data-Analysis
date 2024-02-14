@@ -36,7 +36,7 @@ projects: []
 |:---|:---|:---|
 | Topic Intro| Model Fitting and Interpreting | Tue, 13 Feb |
 | Topic Intro | Models with Multiple Predictors | Wed, 14 Feb|
-| Lab | Lab | Fri, 16 Feb|
+| Lab | [Lab - Grade the Professor Part 2](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-11/lab-11-mlr-course-evals.html) | Fri, 16 Feb|
 
 ### Assignments
 
@@ -46,7 +46,8 @@ projects: []
 | Lab 04 | [Course Evaluations](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-10/lab-10-slr-course-evals.html) | Thu, 15 Feb 23:59 EST |
 | Q 03 | [Multiple regression](https://laurie-the-student-baker.shinyapps.io/08-modeling-multiple/?_ga=2.118700233.1577573604.1636342271-2093147404.1629402165#section-lending-club) | Sun, 18 Feb 23:59 EST |
 | *Due next week* | | | 
-| HW 03 | [Bike rentals DC](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-07/hw-07-bike-rentals-dc.html) | Fri, 23 Feb 23:59 EST |
+| Lab 03 | [Grade the Professor Part 2](| HW 03 Optional| [Bike rentals DC](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-07/hw-07-bike-rentals-dc.html) | Fri, 23 Feb 23:59 EST |) | Thu, 22 Feb 23:59 EST |
+| HW 03 Optional| [Bike rentals DC](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-07/hw-07-bike-rentals-dc.html) | Fri, 23 Feb 23:59 EST |
 
 
 ### Readings
@@ -63,4 +64,4 @@ The following are interactive R tutorials, designed to give you more practice wi
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| [Bike Rentals in D.C.](https://minecr.shinyapps.io/dsbox-06-dcbikeshare/) | Related to HW 02 |
+| [Bike Rentals in D.C.](https://minecr.shinyapps.io/dsbox-06-dcbikeshare/) | Related to HW 03 |
