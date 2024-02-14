@@ -39,7 +39,7 @@ projects: []
 |:---|:---|:---|
 | Topic Intro | Logistic Regression | Tue, 20 Feb |
 | Topic Intro | Prediction and overfitting | Wed, 21 Feb |
-| Lab 3 | [Lab 3 GSS](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-08/hw-08-exploring-gss.html) | Fri, 23 Feb |
+| Lab 05 | [Lab 3 GSS](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-08/hw-08-exploring-gss.html) | Fri, 23 Feb |
 
 
 ### Assignments
@@ -47,10 +47,11 @@ projects: []
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| HW 02 | [Bike rentals DC](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-07/hw-07-bike-rentals-dc.html) | Fri, 23 Feb 23:59 EST |
+| Lab 05 | [Grade the Professor Part 2](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-11/lab-11-mlr-course-evals.html) | Thu, 22 Feb 23:59 EST |
+| HW 03 | [Bike rentals DC](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-07/hw-07-bike-rentals-dc.html) | Fri, 23 Feb 23:59 EST |
 | Q 03 | [Multiple regression](https://laurie-the-student-baker.shinyapps.io/08-modeling-multiple/?_ga=2.118700233.1577573604.1636342271-2093147404.1629402165#section-lending-club) | Sun, 25 Feb, 23:59 EST |
 | *Due next week* | | |
-| Lab 03 | [GSS Survey](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-08/hw-08-exploring-gss.html) | Fri, 1 Mar 23:59 EST |
+| Lab 06 | [GSS Survey](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-08/hw-08-exploring-gss.html) | Fri, 1 Mar 23:59 EST |
 | Q 04 | [Modeling overview](https://laurie-the-student-baker.shinyapps.io/09-modeling-overview/#section-questions)  | Sun, 3 Mar, 23:59 EST |
 
 
@@ -68,5 +69,5 @@ The following are interactive R tutorials, designed to give you more practice wi
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| [Exploring the GSS](https://minecr.shinyapps.io/dsbox-07-exploregss/) | Related to Lab 03 |
+| [Exploring the GSS](https://minecr.shinyapps.io/dsbox-07-exploregss/) | Related to Lab 05 |
 
