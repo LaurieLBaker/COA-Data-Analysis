@@ -48,7 +48,7 @@ projects: []
 |:---|:---|:---|
 | *Due this week* | | |
 | Lab 05 | [Grade the Professor Part 2](https://laurielbaker.github.io/DCS-210/course-materials/lab-instructions/lab-11/lab-11-mlr-course-evals.html) | Thu, 22 Feb 23:59 EST |
-| HW 03 | [Bike rentals DC](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-07/hw-07-bike-rentals-dc.html) | Fri, 23 Feb 23:59 EST |
+| HW 03 Optional | [Bike rentals DC](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-07/hw-07-bike-rentals-dc.html) | Fri, 23 Feb 23:59 EST |
 | Q 03 | [Multiple regression](https://laurie-the-student-baker.shinyapps.io/08-modeling-multiple/?_ga=2.118700233.1577573604.1636342271-2093147404.1629402165#section-lending-club) | Sun, 25 Feb, 23:59 EST |
 | *Due next week* | | |
 | Lab 06 | [GSS Survey](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-08/hw-08-exploring-gss.html) | Fri, 1 Mar 23:59 EST |
@@ -61,6 +61,9 @@ projects: []
 |:---:|:---|:---:|
 | :open_book: | IMS: [Chp 9 - Logistic regression](https://openintro-ims.netlify.app/model-logistic.html) | **Required** |
 | :page_facing_up: | tidymodels: [Build a model](https://www.tidymodels.org/start/models/) | **Required** |
+| :page_facing_up: | MLU-Explain: [ROC Curves Explained](https://mlu-explain.github.io/roc-auc/) | **Required** |
+| :page_facing_up: | MLU-Explain: [Logistic Regression](https://mlu-explain.github.io/logistic-regression/) | **Optional** |
+
 
 
 ### Interactive R tutorials
