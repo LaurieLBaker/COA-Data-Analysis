@@ -61,8 +61,10 @@ projects: []
 |:---:|:---|:---:|
 | :open_book: | IMS: [Chp 9 - Logistic regression](https://openintro-ims.netlify.app/model-logistic.html) | **Required** |
 | :page_facing_up: | tidymodels: [Build a model](https://www.tidymodels.org/start/models/) | **Required** |
-| :page_facing_up: | MLU-Explain: [ROC Curves Explained](https://mlu-explain.github.io/roc-auc/) | **Required** |
+| :page_facing_up: | MLU-Explain: [ROC Curves Explained](https://mlu-explain.github.io/roc-auc/) | **Optional** |
 | :page_facing_up: | MLU-Explain: [Logistic Regression](https://mlu-explain.github.io/logistic-regression/) | **Optional** |
+| :page_facing_up: | MLU-Explain: [Train and Test and Validation](https://mlu-explain.github.io/train-test-validation/) | **Optional** |
+
 
 
 
