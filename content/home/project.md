@@ -99,7 +99,7 @@ what are the cases, what are the variables, etc.).
 and codebook to the README in that folder. Then print out the output of 
 `glimpse()` or `skim()` of your data frame.
 
-- Section 3 - Data Ethics: We will be conducting a review of the ethics of our data analysis project using the questions outlined in the [Data Ethics Canvas](https://theodi.org/wp-content/uploads/2021/07/Data-Ethics-Canvas-English-Colour.pdf) by the Open Data Institute. Specifically we will look at the questions under "Limitations in Data Sources", "Your reasons for using data", "Positive effects on people", "Negative effects on people", and "Minimising negative impact".
+- Section 3 - Data Ethics: We will be conducting a review of the ethics of our data analysis project using the questions outlined in the [Data Ethics Canvas](https://theodi.github.io/interactive-data-ethics-canvas/) by the Open Data Institute. Specifically we will look at the questions under "Limitations in Data Sources", "Your reasons for using data", "Positive effects on people", "Negative effects on people", and "Minimising negative impact".
 
 - Section 4 - Data analysis plan:
   - The outcome (response, Y) and predictor (explanatory, X) variables you will use to explore your question. The type of model you will use to explore your question.
@@ -148,7 +148,7 @@ Style and format does count for this assignment, so please take the time to make
 - Make sure each team member is contributing, both in terms of quality and quantity of contribution (we will be reviewing commits from different team members).
 - Set aside time to work together and apart (physically).
 - When you're done, review the documents on GitHub to make sure you're happy with the final state of your work. Then go get some rest!
-- Code: In your presentation your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However your document should include all your code such that if I re-knit your R Markdown file I should be able to obtain the results you presented. **Exception:** If you want to highlight something specific about a piece of code, you're welcomed to show that portion. 
+- Code: In your presentation your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However your document should include all your code such that if I re-knit your R Markdown file I should be able to obtain the results you presented. **Exception:** If you want to highlight something specific about a piece of code, you're welcome to show that portion. 
 - Teamwork: You are to complete the assignment as a team. All team members are expected to contribute equally to the completion of this assignment and team evaluations will be given at its completion - anyone judged to not have sufficient contributed to the final product will have their grade penalized. While different teams members may have different backgrounds and abilities, it is the responsibility of every team member to understand how and why all code and approaches in the assignment works.
 
 

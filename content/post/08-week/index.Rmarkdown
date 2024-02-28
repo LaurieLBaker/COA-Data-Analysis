@@ -60,6 +60,8 @@ projects: []
 |:---:|:---|:---:|
 | :page_facing_up: | tidymodels: [Evaluate your model with resampling](https://www.tidymodels.org/start/resampling/) | **Required** |
 | :open_book: | IMS: [Bootstrap confidence intervals](https://openintro-ims.netlify.app/inference-applications.html?q=bootstrapping#inference-applications) | **Required** |
+| :page_facing_up: | [MLU-Explain Cross Validation](https://mlu-explain.github.io/cross-validation/) | **Optional** |
+| :page_facing_up: | [MLU-Explain Cross Validation](https://mlu-explain.github.io/cross-validation/) | **Optional** |
 
 ### Interactive R tutorials
 

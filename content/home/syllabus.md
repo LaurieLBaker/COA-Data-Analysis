@@ -16,7 +16,7 @@ Unit 1 (Week 1 to 2)- Exploring data: This unit is designed as a refresher of da
 
 Unit 2 (Week 3 to 4) - Working with strings, regular expressions, and text analysis. 
 
-Unit 3 (Week 4 to 8) - Making rigorous conclusions: In this unit we introduce modelling and statistical inference for making data-based conclusions. We discuss data ethics alongside building, interpreting, and selecting models, visualizing results, and prediction and model validation.
+Unit 3 (Week 5 to 8) - Making rigorous conclusions: In this unit we introduce modelling and statistical inference for making data-based conclusions. We discuss data ethics alongside building, interpreting, and selecting models, visualizing results, and prediction and model validation.
 
 Unit 4 (Week 9 and 10) - Machine Learning and looking beyond Data Science 2: In this unit we delve into supervised machine learning and finish up the course with project presentations and looking beyond data science II.
 
