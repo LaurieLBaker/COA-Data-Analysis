@@ -47,8 +47,8 @@ projects: []
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| HW 07 | [Bike rentals DC](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-07/hw-07-bike-rentals-dc.html) | Thu, 29 Feb, 23:59 EST |
-| Q 05 | [Modeling overview](https://laurie-the-student-baker.shinyapps.io/09-modeling-overview/#section-questions)  | Sun, 3 Mar, 23:59 EST |
+| Lab 06 | [GSS Survey](https://laurielbaker.github.io/DCS-210/course-materials/hw-instructions/hw-08/hw-08-exploring-gss.html) | Fri, 1 Mar 23:59 EST |
+| Q 04 | [Modeling overview](https://laurie-the-student-baker.shinyapps.io/09-modeling-overview/#section-questions)  | Sun, 3 Mar, 23:59 EST |
 | *Due in two weeks* | | |
 | Presentation | In Class | Tue, 12 Mar, Class time |
 | Presentation | In Class | Wed, 13 Mar, Class time |
